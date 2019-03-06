@@ -1,4 +1,4 @@
-<h2 style = "font-size: 1.3em;>LinkedList-in-C++</h2><br>
+<font style = "font-size: 2em;">Standford_CS106B_Practice</font><br>
 <font style = "font-size: 0.7em; color: gray;">2019. 03. 06</font><br>
                                               
 연결리스트를 C++을 이용하여 구현한 코드입니다.<br>
