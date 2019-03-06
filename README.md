@@ -1,1 +1,1 @@
-# LinkedList-in-C-by-using-variable-ways.
+# LinkedList-in-C
