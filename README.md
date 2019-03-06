@@ -1,4 +1,4 @@
-<h2 style = "font-size: 1.5em;>LinkedList-in-C++</h2> 
+LinkedList-in-C++
 <font style = "font-size: 0.7em; color: gray;">2019. 03. 06</font>
                                               
                                               
