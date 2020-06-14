@@ -1,5 +1,5 @@
-<font style = "font-size: 2em;">Standford_CS106B_Practice</font><br>
-<font style = "font-size: 0.7em; color: gray;">2019. 03. 06</font><br>
+# Standford_CS106B_Practice
+2019-03-06
                                               
-연결리스트를 C++을 이용하여 구현한 코드입니다.<br>
+연결리스트를 C++을 이용하여 구현한 코드입니다.
 cpp 파일과 헤더 파일은 코드 참고용으로 올려두었습니다.
